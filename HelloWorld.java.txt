@@ -2,5 +2,6 @@ public class HelloWorld {
 	public static void main(String[] args ) {
 		System.out.print("Hello World");
 		System.out.print("Demo Github");
+		System.out.print("NGuoi khac edit");
 	}
 }
